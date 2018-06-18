@@ -1,4 +1,4 @@
-# resume-cv for gh-pages
+# [stevieschatz.github.io/public][stevieschatz.github.io/public]
 
 stevieschatz.github.io/public
 
