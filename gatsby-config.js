@@ -3,4 +3,7 @@ module.exports = {
     title: 'Stephen Schatzl',
   },
   plugins: ['gatsby-plugin-react-helmet'],
+
+  pathPrefix: "/resume-cv"
+
 }
