@@ -1,5 +1,5 @@
 {
-  "name": "Stephen Schatzl",
+  "name": "resume-cv",
   "description": "Gatsby default starter",
   "version": "1.0.0",
   "author": "stevieschatz",
@@ -26,6 +26,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/stevieschatz/stevieschatz.github.io"
   }
 }
