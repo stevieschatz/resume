@@ -3,12 +3,22 @@ import React from 'react'
 import image from '../data/image.png'
 
 const LeftSide = ({ siteTitle }) => (
+  <div
+  style={{
+    background: 'white',
+    marginBottom: '1.45rem',
+
+  }}
+  >
+
   <div style={{
     margin: 'auto',
     maxWidth: '500px',
+    padding: '1.45rem 1.0875rem',
   }}>
 
   <h4 style={{
+    fontFamily: 'Didot',
       }}>LeftSide</h4>
 
   <img src={image}></img>
@@ -32,6 +42,7 @@ const LeftSide = ({ siteTitle }) => (
 
 
 
+  </div>
   </div>
 
 )
