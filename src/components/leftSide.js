@@ -17,9 +17,6 @@ const LeftSide = ({ siteTitle }) => (
     padding: '1.45rem 1.0875rem',
   }}>
 
-  <h4 style={{
-    fontFamily: 'Didot',
-      }}>LeftSide</h4>
 
   <img src={image}></img>
   <h4 style={{
