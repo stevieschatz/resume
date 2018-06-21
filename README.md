@@ -1,4 +1,3 @@
-# [stevieschatz.com](stevieschatz.com)
 
 ## Install
 

@@ -1,7 +1,7 @@
 {
   "name": "resume-cv",
   "description": "My CV build with gatsby",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "stevieschatz",
   "dependencies": {
     "gatsby": "^1.9.247",

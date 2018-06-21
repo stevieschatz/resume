@@ -42,7 +42,7 @@ const RightSide = ({ siteTitle }) => (
 
     <p style={{
       fontFamily: 'Didot',
-      }}>Rebranded two new aquisitions in Bulgaria and Romania.
+      }}>Rebranded a new aquisitions in <a href="https://www.bgmenu.com/">Bulgaria</a>.
     </p>
 
   <h4 style={{
@@ -65,7 +65,7 @@ const RightSide = ({ siteTitle }) => (
 
     <p style={{
       fontFamily: 'Didot',
-      }}>Implemented Oauth 2.0 and Single Sign On (SSO) in Interact (app_name).
+      }}>Implemented Oauth 2.0 and Single Sign On (SSO) in <a href="https://www.healthdialog.com/solutions/health-portal">Interact </a>.
     </p>
 
     <p style={{
