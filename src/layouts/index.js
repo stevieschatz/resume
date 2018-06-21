@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import Title from '../components/title'
 import LeftSide from '../components/leftSide'
 import RightSide from '../components/rightSide'
+import Circle from '../components/circle'
 import './index.css'
 
 const Layout = ({ children, data }) => (
@@ -32,8 +33,8 @@ const Layout = ({ children, data }) => (
       <LeftSide siteTitle={data.site.siteMetadata.title} />
       <RightSide siteTitle={data.site.siteMetadata.title} />
 
-
     </div>
+      <Circle />
   </div>
 )
 
