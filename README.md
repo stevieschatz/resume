@@ -1,6 +1,4 @@
-# [stevieschatz.github.io/public](stevieschatz.github.io/public)
-
-stevieschatz.github.io/public
+# [stevieschatz.com](stevieschatz.com)
 
 ## Install
 
@@ -11,10 +9,10 @@ npm install --global gatsby-cli
 
 Then you can run it by:
 ```sh
-cd gatsby-resume-cv-site
+cd resume
 gatsby develop
 ```
 
 ## Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stevieschatz/stevieschatz.github.io)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stevieschatz/resume)

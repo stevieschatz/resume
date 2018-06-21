@@ -42,7 +42,7 @@ const RightSide = ({ siteTitle }) => (
 
     <p style={{
       fontFamily: 'Didot',
-      }}>Rebranded two new aquisitions In Bulgaria and Romania.
+      }}>Rebranded two new aquisitions in Bulgaria and Romania.
     </p>
 
   <h4 style={{
