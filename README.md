@@ -9,6 +9,7 @@ npm install --global gatsby-cli
 Then you can run it by:
 ```sh
 cd resume
+npm i
 gatsby develop
 ```
 

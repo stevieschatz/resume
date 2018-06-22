@@ -6,6 +6,7 @@ import Title from '../components/title'
 import LeftSide from '../components/leftSide'
 import RightSide from '../components/rightSide'
 import './index.css'
+import favicon from '../data/favicon-16x16.png'
 
 const Layout = ({ children, data }) => (
   <div>
@@ -15,7 +16,14 @@ const Layout = ({ children, data }) => (
         { name: 'description', content: 'Sample' },
         { name: 'keywords', content: 'sample, something' },
       ]}
+      link={[
+        { rel: 'icon', type: 'image/png', sizes: '16x16',  href: favicon }
+      ]}
     />
+
+
+
+
     <Title siteTitle={data.site.siteMetadata.title} />
     <div
       style={{
