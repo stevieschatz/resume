@@ -1,7 +1,7 @@
 
 ## Install
 
-Make sure that you have the Gatsby CLI program installed:
+Make sure that you have the Gatsby CLI installed:
 ```sh
 npm install --global gatsby-cli
 ```
