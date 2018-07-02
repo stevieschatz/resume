@@ -42,7 +42,7 @@ const RightSide = ({ siteTitle }) => (
 
     <p style={{
       fontFamily: 'Didot',
-      }}>Rebranded a new aquisitions in <a href="https://www.bgmenu.com/">Bulgaria</a>.
+      }}> Successfully onboarded new acquisitions to our configurable Takeaway.com stack. <a href="https://www.bgmenu.com/">Bulgaria</a> <a href="https://www.oliviera.ro/">Romania</a>.
     </p>
 
   <h4 style={{
